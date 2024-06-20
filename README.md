@@ -10,3 +10,6 @@ change pin SW1 and SW2 in tiny32_v3 library
 --- to ---
 #define SW1     32
 #define SW2     33
+
+--- wokwi diagram.json link ---
+https://wokwi.com/projects/401115724387300353
